@@ -1,0 +1,15 @@
+# PermitFlorida
+
+node_modules/
+.next/
+out/
+*.log
+.env
+.env.local
+.DS_Store
+*.pem
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
